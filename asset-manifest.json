@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Dicegame-React/static/css/main.f66a7765.css",
+    "main.js": "/Dicegame-React/static/js/main.1a0c989d.js",
+    "static/media/dices.png": "/Dicegame-React/static/media/dices.dd209eaf1218f8d4fda3.png",
+    "index.html": "/Dicegame-React/index.html",
+    "main.f66a7765.css.map": "/Dicegame-React/static/css/main.f66a7765.css.map",
+    "main.1a0c989d.js.map": "/Dicegame-React/static/js/main.1a0c989d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f66a7765.css",
+    "static/js/main.1a0c989d.js"
+  ]
+}
